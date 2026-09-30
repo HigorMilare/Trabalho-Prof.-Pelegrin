@@ -40,7 +40,7 @@ Este sistema é uma aplicação web desenvolvida em PHP e MySQL para a gestão d
 ## 🎨 Protótipos das Telas (Figma / UX)
 
 ### Tela de Login:
-![Tela de Login](C:\xampp\htdocs\meu_projeto\Telas.figma\TelaLogin.png)
+![Tela de Login](https://github.com/HigorMilare/Trabalho-Prof.-Pelegrin/blob/master/Telas/TelaLogin.png)
 
 
 ---
