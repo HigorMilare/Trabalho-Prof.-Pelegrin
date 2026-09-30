@@ -42,7 +42,17 @@ Este sistema é uma aplicação web desenvolvida em PHP e MySQL para a gestão d
 ### Tela de Login:
 ![Tela de Login](https://github.com/HigorMilare/Trabalho-Prof.-Pelegrin/blob/master/Telas/TelaLogin.png)
 
+### Tela de Cadastro de usuário:
+![Tela de usuário](https://github.com/HigorMilare/Trabalho-Prof.-Pelegrin/blob/master/Telas/CadastroUsuario.png)
 
+### Tela de Itens:
+![Vitrine](https://github.com/HigorMilare/Trabalho-Prof.-Pelegrin/blob/master/Telas/Tela%20de%20itens%20(vitrine).png)
+
+### Tela de Cadastro produtos/Fornecedores:
+![Produtos/Fornecedores](https://github.com/HigorMilare/Trabalho-Prof.-Pelegrin/blob/master/Telas/CadastroProd.png)
+
+### Tela do Carrinho:
+![Cesta](https://github.com/HigorMilare/Trabalho-Prof.-Pelegrin/blob/master/Telas/Carrinho.png)
 ---
 
 ## 🚀 Como Executar o Projeto
