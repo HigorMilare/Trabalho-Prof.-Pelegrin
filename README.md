@@ -37,6 +37,14 @@ Este sistema é uma aplicação web desenvolvida em PHP e MySQL para a gestão d
 
 ---
 
+## 🎨 Protótipos das Telas (Figma / UX)
+
+### Tela de Login:
+![Tela de Login](C:\xampp\htdocs\meu_projeto\Telas.figma\TelaLogin.png)
+
+
+---
+
 ## 🚀 Como Executar o Projeto
 
 1. Instale e inicie o **XAMPP** (serviços Apache e MySQL ativos).
